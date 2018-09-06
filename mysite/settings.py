@@ -25,7 +25,7 @@ SECRET_KEY = 'hv3@h_6&jjpi5ie6ko=ao*_4b4o^$8p$2r#fczy0$7kue-ue_&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['python-koru.c9users.io', '0.0.0.0', 'localhost']
 
 
 # Application definition
