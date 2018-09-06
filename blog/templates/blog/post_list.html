@@ -2,5 +2,11 @@
   <head></head>
   <body>
     <p>aaa</p>
+    {% for post in posts %}
+    <div>{{post}}</div>
+    <div>{{post.text}}</div>
+    <div>{{post.published_date}}</div>
+    <div>{{linebreaksbr}}</div>
+    {% endfor %}
   </body>
 </html>
