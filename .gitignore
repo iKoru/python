@@ -5,3 +5,8 @@ __pycache__
 virtual
 /static
 .DS_Store
+db.sh
+logfile
+psycopg2_test/
+py/
+
